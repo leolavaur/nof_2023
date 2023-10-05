@@ -1,0 +1,35 @@
+{
+    "python.testing.pytestEnabled": true,
+    "python.defaultInterpreterPath": "${env:NIX_PYTHON_PATH}",
+    "python.terminal.launchArgs": [
+        "-m",
+        "IPython",
+        "--no-autoindent",
+        "--no-confirm-exit",
+        "--ext=autoreload",
+        "-c",
+        "get_ipython().run_line_magic('autoreload', '2'); get_ipython().run_line_magic('clear', '')",
+        "-i"
+    ],
+    "python.analysis.stubPath": "",
+    "python.analysis.typeCheckingMode": "basic",
+    
+    "black-formatter.args": [
+        "--experimental-string-processing"
+    ],
+    
+    "ruff.path": ["ruff"],
+    
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true,
+            "source.organizeImports": true
+        },
+        "editor.formatOnPaste": false,
+    },
+
+    "notebook.formatOnSave.enabled": true,
+
+}
