@@ -14,6 +14,10 @@ In this tutorial, we will first present the fundamentals of federated learning, 
 
 ### Yann Busnel
 
+<p align="center">
+    <img src="./img/yann.png" alt="Yann Busnel - NoF 2023" style="width: 50%; max-width: 200px;">
+</p>
+
 Yann Busnel has joined IMT Nord Europe as Dean of Research and Innovation from June 2023. After more than 15 years of experience as a faculty, including 6 years as a full professor at IMT Atlantique and member of the IRISA laboratory, he now oversees all research and innovation activities in line with Institut Mines-Télécom’s strategy. He contributes closely to the definition of strategic orientations and to the operational management of the institution. He also represents the Executive Board internally and externally with its partners in the research environment.
 
 He holds an Habilitation to Supervise Research and a PhD respectively from the École Normale Supérieure de Rennes and the University of Rennes. After starting his career in Italy (La Sapienza Universita di Roma), he worked at the University of Nantes, then at ENSAI in Rennes, before joining IMT. As a professor at IMT, he was previously head of the Rennes campus of IMT Atlantique, in charge of education and research purposes.
@@ -22,6 +26,10 @@ His research topics are mainly related to Models for large-scale distributed sys
 
 
 ### Léo Lavaur
+
+<p align="center">
+    <img src="./img/leo.png" alt="Leo Lavaur - NoF 2023" style="width: 50%; max-width: 200px;">
+</p>
 
 Léo Lavaur received the engineering degree in information security from the National Engineering School, South Brittany (ENSIBS), Vannes, France, in 2020. He is currently pursuing the Ph.D. degree in cybersecurity with the Engineering School, IMT Atlantique and the Chair on Cybersecurity in Critical Networked Infrastructures (Cyber CNI), Rennes, France. During his studies, he also worked in industry with Orange Cyberdefense as a part-time Employee for three years, where he worked on application security, and Wi-Fi rogue access-point detection and location.
 
